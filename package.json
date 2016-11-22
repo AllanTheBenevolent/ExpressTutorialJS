@@ -1,14 +1,22 @@
 {
-  "name": "allanwong",
+  "name": "expresstutorial",
   "version": "1.0.0",
   "private": true,
-  "description": "Express Tutorial",
+  "description": " Express Tutorial",
   "main": "expresstut.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Allan Wong",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanTheBenevolent/ExpressTutorialJS.git"
+  },
+  "author": "allanwong",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanTheBenevolent/ExpressTutorialJS/issues"
+  },
+  "homepage": "https://github.com/AllanTheBenevolent/ExpressTutorialJS#readme",
   "dependencies": {
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0"
